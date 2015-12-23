@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm Macaulay’s First Web Page</p>
+<p>Hi I’m another paragraph</p>
+
+                             
+<p>i love writing stories my favorite animal is a fox.</p>
+
+</body>
+</html>
