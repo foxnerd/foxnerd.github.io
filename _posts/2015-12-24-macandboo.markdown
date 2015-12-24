@@ -11,4 +11,4 @@ date:   2015-12-23 3:00
 I love Boo Dog. He is a 12 year old Jack Russell Terrier.
 
 ### #Love Boo
-I love to cuddle Boo Dog!
+I love to cuddle Boo Dog so much!
